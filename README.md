@@ -4,10 +4,9 @@
 
 I'm an IT analyst building deeper expertise in security operations, incident response, and Linux administration. I use hands-on labs to practice the work behind the job title: reviewing telemetry, triaging alerts, enriching indicators, documenting findings, and designing response workflows with a human analyst in control.
 
-- Based in Ottawa, Ontario, Canada
 - Targeting SOC Analyst, Security Operations, and SecOps-focused IT roles
 - Interested in the intersection of cybersecurity, automation, and applied AI
-- Open to remote opportunities and Ottawa-area hybrid or on-site roles
+- Open to remote opportunities and on-site roles
 
 ## Featured Security Work
 
