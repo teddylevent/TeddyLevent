@@ -1,42 +1,56 @@
 # Ted Weka
 
-I'm an IT analyst moving deeper into security operations, Linux administration, and incident response. I build hands-on labs to practice the work I want to do every day: triaging alerts, reviewing logs, automating response steps, documenting cases, and understanding how attacker activity shows up in real systems.
+**SOC Analyst | Security Operations | Linux | Automation**
 
-I'm open to remote SOC Analyst, Security Operations Analyst, Linux System Administrator, and IT Support/SecOps roles across Canada and the US, plus Ottawa-area hybrid or on-site roles.
+I'm an IT analyst building deeper expertise in security operations, incident response, and Linux administration. I use hands-on labs to practice the work behind the job title: reviewing telemetry, triaging alerts, enriching indicators, documenting findings, and designing response workflows with a human analyst in control.
 
-## Current Focus
+- Based in Ottawa, Ontario, Canada
+- Targeting SOC Analyst, Security Operations, and SecOps-focused IT roles
+- Interested in the intersection of cybersecurity, automation, and applied AI
+- Open to remote opportunities and Ottawa-area hybrid or on-site roles
 
-- SOC alert triage, SIEM monitoring, and incident documentation
-- Linux administration, hardening, SSH/firewall configuration, and cloud VM labs
-- SOAR workflows for enrichment, analyst approval, notification, and containment
-- Firewall, VPN, endpoint, and honeypot log analysis
-- Turning lab work into clear runbooks and case-study documentation
+## Featured Security Work
 
-## Featured Security Labs
-
-| Lab | What it shows |
+| Project | What I built and demonstrated |
 | --- | --- |
-| [SOC Automation Lab](https://github.com/teddylevent/SOC-Automation-Lab) / [write-up](https://medium.com/@uju.woo243/soc-automation-lab-00014b9028e7) | Wazuh, Sysmon, Shuffle, TheHive, VirusTotal enrichment, case creation, and analyst notification. |
-| [SOAR Playbook Lab](https://github.com/teddylevent/Creating-a-Playbook) / [Part 3 write-up](https://medium.com/@uju.woo243/creating-a-playbook-with-soar-step-by-step-guide-part-3-d517f7b975fa) | LimaCharlie and Tines workflow with Slack/email alerts, analyst approval, and endpoint isolation logic. |
-| [T-Pot Honeypot Lab](https://github.com/teddylevent/Honeypot-Lab) / [write-up](https://medium.com/@uju.woo243/how-to-install-t-pot-honeypot-framework-on-a-linuxvm-05d0fab039df) | Ubuntu VM setup, SSH/firewall access, T-Pot services, and Kibana-based attack telemetry review. |
-| [Firewall Log Analysis](https://medium.com/@uju.woo243/how-to-read-firewall-logs-0ba65ad8de2c) | Port-scan behavior, suspicious source traffic, allow/deny fields, and SOC triage basics. |
-| [VPN Log Analysis](https://medium.com/@uju.woo243/understanding-vpn-logs-c4cc0ed22636) | Authentication failures, brute-force patterns, suspicious source regions, and VPN event interpretation. |
-| [Authorized Vulnerability Lab](https://github.com/teddylevent/Metasploitable-Lab) / [write-up](https://medium.com/@uju.woo243/how-to-hack-a-remote-server-with-a-metasploit-exploit-51a4e1ed3898) | Isolated Kali/Metasploitable practice with Nmap/Zenmap, Metasploit, and defender-focused remediation notes. |
+| [SOC Automation Lab](https://github.com/teddylevent/SOC-Automation-Lab) | Connected Sysmon, Wazuh, Shuffle, VirusTotal, TheHive, and email notification into an alert-enrichment and analyst-handoff workflow. |
+| [SOAR Playbook Lab](https://github.com/teddylevent/Creating-a-Playbook) | Built a LimaCharlie and Tines playbook with Slack/email notification, an analyst decision point, and conditional endpoint isolation. |
+| [T-Pot Honeypot Lab](https://github.com/teddylevent/Honeypot-Lab) | Deployed T-Pot on an Ubuntu VM, configured access controls, and reviewed attack telemetry in Kibana. |
+| [Authorized Vulnerability Lab](https://github.com/teddylevent/Metasploitable-Lab) | Used Kali, Nmap/Zenmap, and Metasploit in an isolated lab to validate a vulnerability and document the defensive lessons. |
 
-## Tools and Technologies
+## Applied AI for Security
 
-**Security operations:** Wazuh, Sysmon, TheHive, Shuffle SOAR, Tines, LimaCharlie, VirusTotal, Kibana, IDS/IPS concepts, incident response workflows  
-**Linux and infrastructure:** Ubuntu, Kali Linux, SSH, firewall rules, cloud VMs, T-Pot, UTM/VMware, DigitalOcean/Vultr  
-**Networking and support:** TCP/IP, DHCP, VPN, Active Directory, Windows Server, endpoint support, patching, ticket documentation  
-**Scripting:** PowerShell, Python, SQL basics
+Security operations is the center of this profile. I also build with AI, but I treat it as a force multiplier for analysts—not a replacement for analyst judgment.
 
-## What I'm Building Next
+My current build is an **AI SOC Alert Triage and Investigation Copilot** designed around evidence-cited recommendations, read-only enrichment, retrieval of approved playbooks, structured outputs, audit logs, and explicit human approval before any case-creation or response action.
 
-- A Linux administration and hardening lab with SSH, users/groups, sudo policy, firewall rules, logging, backups, and patching notes
-- Wazuh detection rules with Sigma/MITRE ATT&CK mapping and sample alert screenshots
-- Incident report-style write-ups that show what happened, what evidence mattered, what I would escalate, and what I would fix
+## Security Writing
+
+- [How to Build a SOC Automation Lab](https://medium.com/@uju.woo243/soc-automation-lab-00014b9028e7)
+- [Creating a Playbook with SOAR — three-part series](https://github.com/teddylevent/Creating-a-Playbook#full-walkthrough)
+- [How to Install T-Pot Honeypot Framework on a Linux VM](https://medium.com/@uju.woo243/how-to-install-t-pot-honeypot-framework-on-a-linuxvm-05d0fab039df)
+- [How to Read Firewall Logs](https://medium.com/@uju.woo243/how-to-read-firewall-logs-0ba65ad8de2c)
+- [Understanding VPN Logs](https://medium.com/@uju.woo243/understanding-vpn-logs-c4cc0ed22636)
+- [All articles on Medium](https://medium.com/@uju.woo243)
+
+## Technical Focus
+
+| Area | Tools and concepts |
+| --- | --- |
+| Security operations | Alert triage, incident documentation, SIEM/SOAR, Wazuh, TheHive, Shuffle, Tines, LimaCharlie, VirusTotal |
+| Endpoint and telemetry | Windows, Sysmon, process and authentication events, detection logic |
+| Linux and infrastructure | Ubuntu, Kali Linux, SSH, firewall rules, cloud VMs, T-Pot |
+| Network analysis | TCP/IP, VPN and firewall logs, suspicious-source review, allow/deny analysis |
+| Automation | Python, PowerShell, APIs, webhooks, structured workflows, human-in-the-loop design |
+
+## Currently Improving
+
+- Rebuilding the labs with sanitized configuration examples, sample alerts, architecture diagrams, MITRE ATT&CK mapping, and incident-report-style conclusions
+- Developing the AI SOC triage copilot with security guardrails and measurable evaluations
+- Expanding Linux administration and hardening practice across identity, sudo policy, firewalling, logging, patching, and backups
 
 ## Contact
 
-- Medium: [@uju.woo243](https://medium.com/@uju.woo243)
-- LinkedIn: [tedweks](https://www.linkedin.com/in/tedweks/)
+- [LinkedIn](https://www.linkedin.com/in/tedweks/)
+- [Medium](https://medium.com/@uju.woo243)
+
