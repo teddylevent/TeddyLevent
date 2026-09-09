@@ -1,29 +1,34 @@
-<h1 align="center">Teddy</h1>
+# Ted Weka
 
-<p align="center"><strong>Identity and Access Management Portfolio</strong></p>
+**Identity and Access Management | Access Governance | Microsoft Entra ID**
 
-<p align="center">Microsoft Entra ID · Identity Governance · RBAC · PowerShell · Okta</p>
+I am an IT analyst building hands-on expertise in Identity and Access Management (IAM). My portfolio focuses on the business and technical controls behind identity lifecycle management, least privilege, role-based access, authentication, privileged access, and audit evidence.
 
-## About Me
-
-I am building hands-on Identity and Access Management projects focused on identity lifecycle management, least privilege, access governance, authentication, privileged access, and audit evidence.
-
-My portfolio uses Energy Retail Group (ERG), a fictional company created for safe technical testing. Every identity, application, approval, and business record is synthetic.
-
-My goal is to demonstrate that I understand both the business decisions behind access and the technical steps used to implement, verify, troubleshoot, and document those decisions.
+My IAM projects use **Energy Retail Group (ERG)**, a fictional company created for safe lab work. Every user, application, business record, approval, and test result is synthetic.
 
 ## Featured IAM Project
 
-| Project | What it demonstrates | Evidence | Technologies | Status |
-|---|---|---|---|---|
-| [ERG Joiner–Mover–Leaver Governance and RBAC Design](https://github.com/teddylevent/erg-jml-governance) | Authoritative HR data, JML controls, RBAC, approvals, least privilege, RACI, evidence, and simulated testing | Video, workflow diagram, access catalogue, controls matrix, and test cases | HRIS concepts, Microsoft Entra concepts, RBAC, SailPoint concepts | Complete |
+### [ERG Joiner–Mover–Leaver Governance and RBAC Design](https://github.com/teddylevent/erg-jml-governance)
 
-Additional projects will be added only after they have been implemented, verified, documented, and prepared for public review.
+Designed a controlled identity lifecycle process for Joiners, Movers, and Leavers. The project demonstrates how trusted HR information, approvals, role-based security groups, access removal, ownership, and evidence work together to reduce access risk.
+
+**What the repository includes:**
+
+- Joiner–Mover–Leaver workflow diagram
+- Access catalogue and role-to-group mapping
+- RACI ownership matrix
+- IAM controls and risk matrix
+- Morgan Joiner, Alex Mover, and Jamie Leaver test cases
+- Clearly labelled simulated test results
+- Downloadable Excel artifacts and GitHub-friendly previews
+- Mapping to Microsoft Entra ID and SailPoint IdentityIQ concepts
+
+**Status:** Complete
 
 ## IAM Skills Demonstrated
 
 - Joiner, Mover, and Leaver lifecycle design
-- Role-Based Access Control
+- Role-Based Access Control (RBAC)
 - Least privilege and privilege-creep prevention
 - Authoritative identity-source reasoning
 - Access catalogues and role-to-group mapping
@@ -33,14 +38,28 @@ Additional projects will be added only after they have been implemented, verifie
 - Microsoft Entra ID concepts
 - SailPoint lifecycle and provisioning concepts
 
+## Supporting Cybersecurity Projects
+
+| Project | What it demonstrates |
+|---|---|
+| [SOC Automation Lab](https://github.com/teddylevent/SOC-Automation-Lab) | Alert enrichment and analyst handoff using Sysmon, Wazuh, Shuffle, VirusTotal, TheHive, and email notification. |
+| [SOAR Playbook Lab](https://github.com/teddylevent/Creating-a-Playbook) | A security-response workflow with notifications, analyst approval, and conditional endpoint isolation. |
+| [T-Pot Honeypot Lab](https://github.com/teddylevent/Honeypot-Lab) | An isolated Ubuntu honeypot lab with access controls and attack-telemetry review. |
+| [Authorized Vulnerability Lab](https://github.com/teddylevent/Metasploitable-Lab) | Authorized vulnerability validation in an isolated lab with defensive lessons documented. |
+
 ## Portfolio Safety Boundary
 
 - ERG is fictional and used only for portfolio labs.
-- All people, applications, tickets, and approvals are synthetic.
+- All people, applications, tickets, approvals, and business records are synthetic.
 - No work, school, client, or production tenant information is published.
 - Screenshots and evidence are reviewed before publication.
 - Passwords, tokens, secrets, tenant IDs, application IDs, and raw logs are excluded.
 
-## Current Focus
+## Current Direction
 
-Completing each ERG IAM project as a separate, evidence-backed case study. Future projects will cover Microsoft Entra technical implementation, access-review automation, and SAML single sign-on after they are completed and verified.
+Project 1 is the first completed ERG IAM case study. Additional IAM projects will be added one at a time only after they are implemented, verified, documented, and prepared for public review.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/tedweks/)
+- [Medium](https://medium.com/@uju.woo243)
