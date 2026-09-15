@@ -1,8 +1,8 @@
 # Ted Weka
 
-**Technical Support | Aspiring IAM Analyst | Access Governance**
+**Technical Support | Aspiring IAM Analyst | Okta | Access Governance**
 
-I currently work in technical support and I am building hands-on expertise toward an Identity and Access Management (IAM) analyst role. My portfolio focuses on the business and technical controls behind identity lifecycle management, least privilege, role-based access, authentication, privileged access, and audit evidence.
+I currently work in technical support and I am building hands-on expertise toward an Identity and Access Management (IAM) analyst role. My portfolio focuses on the business and technical controls behind identity lifecycle management, Okta, Microsoft Entra ID concepts, least privilege, role-based access, authentication, privileged access, and audit evidence.
 
 My IAM projects use **Energy Retail Group (ERG)**, a fictional company created for safe lab work. Every user, application, business record, approval, and test result is synthetic.
 
@@ -21,7 +21,7 @@ Designed a controlled identity lifecycle process for Joiners, Movers, and Leaver
 - Morgan Joiner, Alex Mover, and Jamie Leaver test cases
 - Clearly labelled simulated test results
 - Downloadable Excel artifacts and GitHub-friendly previews
-- Mapping to Microsoft Entra ID and SailPoint IdentityIQ concepts
+- Mapping to Okta, Microsoft Entra ID, and SailPoint IdentityIQ concepts
 
 **Status:** Complete
 
@@ -35,6 +35,7 @@ Designed a controlled identity lifecycle process for Joiners, Movers, and Leaver
 - Approval workflows and RACI ownership
 - Control and risk mapping
 - Test-case design and evidence planning
+- Okta identity and SSO concepts
 - Microsoft Entra ID concepts
 - SailPoint lifecycle and provisioning concepts
 
