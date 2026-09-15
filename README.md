@@ -1,8 +1,8 @@
 # Ted Weka
 
-**Identity and Access Management | Access Governance | Microsoft Entra ID**
+**Technical Support | Aspiring IAM Analyst | Access Governance**
 
-I am an IT analyst building hands-on expertise in Identity and Access Management (IAM). My portfolio focuses on the business and technical controls behind identity lifecycle management, least privilege, role-based access, authentication, privileged access, and audit evidence.
+I currently work in technical support and I am building hands-on expertise toward an Identity and Access Management (IAM) analyst role. My portfolio focuses on the business and technical controls behind identity lifecycle management, least privilege, role-based access, authentication, privileged access, and audit evidence.
 
 My IAM projects use **Energy Retail Group (ERG)**, a fictional company created for safe lab work. Every user, application, business record, approval, and test result is synthetic.
 
