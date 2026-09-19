@@ -1,6 +1,6 @@
 # Ted Weka
 
-**Technical Support | Aspiring IAM Analyst | Okta | Access Governance**
+**Technical Support | IAM | Okta | Access Governance**
 
 I currently work in technical support and I am building hands-on expertise toward an Identity and Access Management. My portfolio focuses on the business and technical controls behind identity lifecycle management, Okta, Microsoft Entra ID concepts, least privilege, role-based access, authentication, privileged access, and audit evidence.
 
@@ -37,7 +37,15 @@ Designed a controlled identity lifecycle process for Joiners, Movers, and Leaver
 - Test-case design and evidence planning
 - Okta identity and SSO concepts
 - Microsoft Entra ID concepts
-- SailPoint lifecycle and provisioning concepts
+
+
+
+## Current Direction
+
+Project 1 is the first completed ERG IAM case study. Additional IAM projects will be added one at a time only after they are implemented, verified, documented, and prepared for public review.
+
+
+
 
 ## Supporting Cybersecurity Projects
 
@@ -47,18 +55,6 @@ Designed a controlled identity lifecycle process for Joiners, Movers, and Leaver
 | [SOAR Playbook Lab](https://github.com/teddylevent/Creating-a-Playbook) | A security-response workflow with notifications, analyst approval, and conditional endpoint isolation. |
 | [T-Pot Honeypot Lab](https://github.com/teddylevent/Honeypot-Lab) | An isolated Ubuntu honeypot lab with access controls and attack-telemetry review. |
 | [Authorized Vulnerability Lab](https://github.com/teddylevent/Metasploitable-Lab) | Authorized vulnerability validation in an isolated lab with defensive lessons documented. |
-
-## Portfolio Safety Boundary
-
-- ERG is fictional and used only for portfolio labs.
-- All people, applications, tickets, approvals, and business records are synthetic.
-- No work, school, client, or production tenant information is published.
-- Screenshots and evidence are reviewed before publication.
-- Passwords, tokens, secrets, tenant IDs, application IDs, and raw logs are excluded.
-
-## Current Direction
-
-Project 1 is the first completed ERG IAM case study. Additional IAM projects will be added one at a time only after they are implemented, verified, documented, and prepared for public review.
 
 ## Contact
 
