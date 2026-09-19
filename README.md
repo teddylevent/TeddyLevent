@@ -2,7 +2,7 @@
 
 **Technical Support | IAM | Okta | Access Governance**
 
-I currently work in technical support and I am building hands-on expertise toward an Identity and Access Management. My portfolio focuses on the business and technical controls behind identity lifecycle management, Okta, Microsoft Entra ID concepts, least privilege, role-based access, authentication, privileged access, and audit evidence.
+I currently work in technical support and I am building hands-on expertise toward Identity and Access Management. My portfolio focuses on the business and technical controls behind identity lifecycle management, Okta, Microsoft Entra ID concepts, least privilege, role-based access, authentication, privileged access, and audit evidence.
 
 My IAM projects use **Energy Retail Group (ERG)**, a fictional company created for safe lab work. Every user, application, business record, approval, and test result is synthetic.
 
