@@ -4,7 +4,7 @@
 
 I currently work in technical support and I am building hands-on expertise toward Identity and Access Management. My portfolio focuses on the business and technical controls behind identity lifecycle management, Okta, Microsoft Entra ID concepts, least privilege, role-based access, authentication, privileged access, and audit evidence.
 
-My IAM projects use **Energy Retail Group (ERG)**, a fictional company created for safe lab work. Every user, application, business record, approval, and test result is synthetic.
+My IAM projects uses  fictional companies created for safe lab work. Every user, application, business record, approval, and test result is not real.
 
 ## Featured IAM Project
 
@@ -21,7 +21,7 @@ Designed a controlled identity lifecycle process for Joiners, Movers, and Leaver
 - Morgan Joiner, Alex Mover, and Jamie Leaver test cases
 - Clearly labelled simulated test results
 - Downloadable Excel artifacts and GitHub-friendly previews
-- Mapping to Okta, Microsoft Entra ID, and SailPoint IdentityIQ concepts
+- Mapping to Okta, Active Directory 
 
 **Status:** Complete
 
@@ -37,13 +37,6 @@ Designed a controlled identity lifecycle process for Joiners, Movers, and Leaver
 - Test-case design and evidence planning
 - Okta identity and SSO concepts
 - Microsoft Entra ID concepts
-
-
-
-## Current Direction
-
-Project 1 is the first completed ERG IAM case study. Additional IAM projects will be added one at a time only after they are implemented, verified, documented, and prepared for public review.
-
 
 
 
