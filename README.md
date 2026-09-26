@@ -25,6 +25,12 @@ Designed a controlled identity lifecycle process for Joiners, Movers, and Leaver
 
 **Status:** Complete
 
+## Project 3 Video Demonstration
+
+[Watch the ERG Business Portal custom SAML SSO integration](https://youtu.be/4mITBHTkiUY)
+
+This lab connects a fictional, Codex-assisted ERG web application to Okta for SAML single sign-on and group-based access. The walkthrough shows the SAML flow, Okta integration settings, application assignment, and Morgan Reed's HR sign-in. The Project 3 source-code repository is not yet published.
+
 ## IAM Skills Demonstrated
 
 - Joiner, Mover, and Leaver lifecycle design
