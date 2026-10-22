@@ -1,61 +1,44 @@
 # Ted Weka
 
-**Technical Support | IAM | Okta | Access Governance**
+**Customer and Technical Support | Identity and Access Management**
 
-I currently work in technical support and I am building hands-on expertise toward Identity and Access Management. My portfolio focuses on the business and technical controls behind identity lifecycle management, Okta, Microsoft Entra ID concepts, least privilege, role-based access, authentication, privileged access, and audit evidence.
+I work in customer and technical support at a software company. I am building my skills in Identity and Access Management through a connected series of practical lab projects.
 
-My IAM projects uses  fictional companies created for safe lab work. Every user, application, business record, approval, and test result is not real.
+My portfolio follows a fictional company, Energy Retail Group (ERG), from access governance design to working identity lifecycle demonstrations using Active Directory, Okta, PowerShell, and Microsoft Entra ID.
 
-## Featured IAM Project
+## Identity and Access Management Portfolio
 
-### [ERG Joiner–Mover–Leaver Governance and RBAC Design](https://github.com/teddylevent/erg-jml-governance)
+[Explore the full IAM portfolio](https://github.com/teddylevent/erg-jml-governance)
 
-Designed a controlled identity lifecycle process for Joiners, Movers, and Leavers. The project demonstrates how trusted HR information, approvals, role-based security groups, access removal, ownership, and evidence work together to reduce access risk.
+| Project | Focus |
+|---|---|
+| [1. Identity Lifecycle and Access Governance](https://github.com/teddylevent/erg-jml-governance/tree/main/projects/01-identity-governance) | Joiner, mover, and leaver processes, access rules, responsibilities, and simulated test cases |
+| [2. Active Directory and Okta Integration](https://github.com/teddylevent/erg-jml-governance/tree/main/projects/02-active-directory-okta) | Directory integration, groups, onboarding, role changes, and offboarding |
+| [3. SAML Single Sign-On](https://github.com/teddylevent/erg-jml-governance/tree/main/projects/03-saml-single-sign-on) | Working portal integration, signed claims, and group-based authorization |
+| [4. Access Reviews with PowerShell](https://github.com/teddylevent/erg-jml-governance/tree/main/projects/04-access-reviews) | Reporting access exceptions using fictional CSV data and simulated review decisions |
+| [5. Microsoft Entra Identity Lifecycle](https://github.com/teddylevent/erg-jml-governance/tree/main/projects/05-entra-identity-lifecycle) | PowerShell account changes, Cloud Sync, Conditional Access, MFA, and portal access tests |
 
-**What the repository includes:**
+The lab uses fictional employees and business records. The portfolio distinguishes simulated governance exercises from working technical demonstrations.
 
-- Joiner–Mover–Leaver workflow diagram
-- Access catalogue and role-to-group mapping
-- RACI ownership matrix
-- IAM controls and risk matrix
-- Morgan Joiner, Alex Mover, and Jamie Leaver test cases
-- Clearly labelled simulated test results
-- Downloadable Excel artifacts and GitHub-friendly previews
-- Mapping to Okta, Active Directory 
+## Skills Practiced
 
-**Status:** Complete
-
-## Project 3 Video Demonstration
-
-[Watch the ERG Business Portal custom SAML SSO integration](https://youtu.be/4mITBHTkiUY)
-
-This lab connects a fictional, Codex-assisted ERG web application to Okta for SAML single sign-on and group-based access. The walkthrough shows the SAML flow, Okta integration settings, application assignment, and Morgan Reed's HR sign-in. The Project 3 source-code repository is not yet published.
-
-## IAM Skills Demonstrated
-
-- Joiner, Mover, and Leaver lifecycle design
-- Role-Based Access Control (RBAC)
-- Least privilege and privilege-creep prevention
-- Authoritative identity-source reasoning
-- Access catalogues and role-to-group mapping
-- Approval workflows and RACI ownership
-- Control and risk mapping
-- Test-case design and evidence planning
-- Okta identity and SSO concepts
-- Microsoft Entra ID concepts
-
-
+- Joiner, mover, and leaver administration.
+- Active Directory users, organizational units, and security groups.
+- Okta directory integration and SAML single sign-on.
+- Microsoft Entra Cloud Sync, application assignments, and Conditional Access.
+- PowerShell account administration and access review reporting.
+- Role-based access control, least privilege, and verification.
+- Access governance documentation and evidence review.
 
 ## Supporting Cybersecurity Projects
 
-| Project | What it demonstrates |
+| Project | Focus |
 |---|---|
-| [SOC Automation Lab](https://github.com/teddylevent/SOC-Automation-Lab) | Alert enrichment and analyst handoff using Sysmon, Wazuh, Shuffle, VirusTotal, TheHive, and email notification. |
-| [SOAR Playbook Lab](https://github.com/teddylevent/Creating-a-Playbook) | A security-response workflow with notifications, analyst approval, and conditional endpoint isolation. |
-| [T-Pot Honeypot Lab](https://github.com/teddylevent/Honeypot-Lab) | An isolated Ubuntu honeypot lab with access controls and attack-telemetry review. |
-| [Authorized Vulnerability Lab](https://github.com/teddylevent/Metasploitable-Lab) | Authorized vulnerability validation in an isolated lab with defensive lessons documented. |
+| [SOC Automation Lab](https://github.com/teddylevent/SOC-Automation-Lab) | Alert enrichment and analyst handoff using Sysmon, Wazuh, Shuffle, VirusTotal, TheHive, and email |
+| [SOAR Playbook Lab](https://github.com/teddylevent/Creating-a-Playbook) | Response workflow with notifications, analyst approval, and conditional endpoint isolation |
+| [T-Pot Honeypot Lab](https://github.com/teddylevent/Honeypot-Lab) | An isolated honeypot lab and attack-telemetry review |
+| [Authorized Vulnerability Lab](https://github.com/teddylevent/Metasploitable-Lab) | Vulnerability validation in an authorized lab |
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/tedweks/)
-- [Medium](https://medium.com/@uju.woo243)
+[LinkedIn](https://www.linkedin.com/in/tedweks/) · [Medium](https://medium.com/@uju.woo243)
